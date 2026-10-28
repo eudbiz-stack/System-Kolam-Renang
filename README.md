@@ -17,5 +17,6 @@ Aplikasi berbasis web untuk mengelola operasional kolam renang, mulai dari penge
 
 **Teknologi:** PHP, MySQL, HTML, CSS, dan JavaScript.
 
-<img width="1859" height="1268" alt="image" src="https://github.com/user-attachments/assets/23f0a715-a23d-4ed5-9e5d-dbd4aa611eff" />
+<img width="1859" height="1268" alt="image" src="https://github.com/user-attachments/assets/3cbd0ae6-3459-415e-b19c-19e114031258" />
+
 
